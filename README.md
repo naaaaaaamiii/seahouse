@@ -1,24 +1,34 @@
-# README
+# Seahouse
+​
+## サイト概要
+### サイトテーマ
+復習を計画的に行うことができるリマインドアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### テーマを選んだ理由
+学生の時から学習を行ったときは完璧に理解できているのに、数日経ったら忘れてしまいまた覚えなおさなければならないという現象に陥っており、いくら時間があっても足りず学習が身についていないことに悩んでいました。
+そこで、東大生の勉強方法や学年1位の勉強方法など色々調べてみたところ、復習が大事であるというところにたどり着いたのですが復習に時間がかかってしまい一向に新しい分野に手が付けれないという別の課題が発生しました。
+高校生の時にエビングハウスの忘却曲線に出会いこれに基づいたターンで復習を行っていたのですが計算したうえで手書きで復習計画を立てていたので自動化されるともっと勉強に注力することができると考えました。
+また、アプリ化することで気軽に使えるため、私と同じように勉強のやり方で悩んでいる人達に活用してもらいたいと思いこのテーマにしました。
 
-Things you may want to cover:
+### ターゲットユーザ
 
-* Ruby version
+・勉強の方法に悩んでいる人
 
-* System dependencies
+・自分の身になる勉強を行いたい学生や社会人
+​
+### 主な利用シーン
 
-* Configuration
+・勉強の復習を行う時
 
-* Database creation
+・新しい知識を自分の脳に入れる時
 
-* Database initialization
+## 設計書
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+​
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+​
