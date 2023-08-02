@@ -1,4 +1,4 @@
-# Seahouse
+# wakuwaku
 ​
 ## サイト概要
 ### サイトテーマ
